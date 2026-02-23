@@ -1,5 +1,5 @@
 function SkillsSection() {
-  const skills = ["Java", "Python", "React", "Firebase", "MySQL", "XGBoost"]
+  const skills = ["Java", "Python", "React", "Firebase", "MySQL", "Jupyter"]
 
   return (
     <section id="skills" className="py-20 bg-gray-900 text-center">

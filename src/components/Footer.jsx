@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer className="bg-gray-900 py-6 text-center text-gray-500">
-      © 2026 Thamizhamudhan A. All rights reserved.
+      © 2026 Venkatrajan R. All rights reserved.
     </footer>
   )
 }

@@ -5,7 +5,7 @@ function AboutSection() {
       <p className="text-gray-400">
         I'm a 6th semester Computer Science student with CGPA 8.4.
         Interested in Web Development and Machine Learning.
-        I build React applications and ML models using Python.
+        I build React applications and AR/VR Enthusiast.
       </p>
     </section>
   )

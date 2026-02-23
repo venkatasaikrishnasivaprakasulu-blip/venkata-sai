@@ -7,18 +7,18 @@ function ProjectsSection() {
 
         <div className="bg-gray-900 p-6 rounded-lg">
           <h3 className="text-xl font-bold mb-2">
-            Heart Disease Detection using ML
+            AR/VR Hair Transplant Training
           </h3>
           <p className="text-gray-400 mb-4">
-            Built using Python & XGBoost to predict heart disease risk.
+            Designed an AR/VR-based medical training simulation.
           </p>
-          <a
-            href="https://github.com/Thamizhamudhan-A/heart-disease-detection-using-ml"
+          {/* <a
+            href=""
             target="_blank"
             className="text-blue-400 underline"
           >
             View on GitHub
-          </a>
+          </a> */}
         </div>
 
         <div className="bg-gray-900 p-6 rounded-lg">
